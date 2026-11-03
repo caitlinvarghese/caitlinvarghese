@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently learning the ins and outs of Github... long, long overdue. Wish me luck!
+  
 <!--
 **caitlinvarghese/caitlinvarghese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
